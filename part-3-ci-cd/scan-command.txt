@@ -1,1 +1,2 @@
 ssh-keyscan ec2-3-101-38-153.us-west-1.compute.amazonaws.com >> known_hosts
+check-2
